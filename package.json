@@ -1,0 +1,26 @@
+{
+  "name": "sr-tl",
+  "version": "1.0.0",
+  "description": "A fast, multiple API wrapper for easily accessing things.",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "snekfetch": "^3.6.1"
+  },
+  "engines": {
+    "node": "9.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ZippyMagician/sr-tl/"
+  },
+  "keywords": [
+    "meme",
+    "search",
+    "urban"
+  ],
+  "author": "Joshua Barnett"
+  "license": "MIT"
+}
